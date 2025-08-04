@@ -1,2 +1,3 @@
 Tarea1 Integrantes:
 usuario 1: Atilio  Sebastian Paredes Perez
+usuario 2: Rubén David López Fernández
